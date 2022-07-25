@@ -1,3 +1,3 @@
-# Custom Elements
+# Custom Element
 
-This is a Custom Elements Implementation of Three.js for sites built on Velo by Wix.
+This is a Custom Element Implementation of Three.js for sites built on Velo by Wix.
